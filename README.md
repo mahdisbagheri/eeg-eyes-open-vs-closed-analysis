@@ -71,6 +71,9 @@ Power was calculated for the following EEG frequency bands:
 | Beta  | 12–30 Hz        |
 | Gamma | 30–40 Hz        |
 
+<img width="238" height="212" alt="images" src="https://github.com/user-attachments/assets/209ec882-1c51-4720-ad46-c5177735d5c6" />
+
+
 The band powers for Eyes Open and Eyes Closed conditions were compared using bar charts.
 
 #### Scientific Expectation
